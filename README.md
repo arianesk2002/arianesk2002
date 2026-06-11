@@ -29,7 +29,6 @@ Computer Science Student | AI & Data Science Enthusiast | Fair & Explainable AI 
 ---
 
 
-## 📫 Contact
 
 <p align="center">
 
